@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oprava-auta.sk/sitemap.xml
